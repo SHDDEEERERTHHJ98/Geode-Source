@@ -2,7 +2,7 @@ this is the Geode source for AltStore, and SideStore
 this is the perfect alternative to just sideload Geode
 let's get started
 # HOW TO ADD THIS SOURCE
-1. Copy this url: https://tinyurl.com/Geode-Source
+1. Copy this url: https://tinyurl.com/Geode-Source-Forked
 2. Open SideStore, or AltStore
 3. Press on sources
 4. then press on the + button
