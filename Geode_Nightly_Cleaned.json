@@ -13,9 +13,9 @@
     {
       "name": "Geode (nightly)",
       "bundleIdentifier": "com.geode.launcher",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Geode team",
+      "subtitle": "Test some new things on Geode Nightly",
+      "localizedDescription": "This is an awesome app also available on AltStore.",
       "iconURL": "https://i.imgur.com/6WJZLdg.png",
       "tintColor": "#698f95",
       "category": "other",
