@@ -1,0 +1,57 @@
+{
+  "name": "Geode Nightly",
+  "subtitle": "Try out the new versions of Geode, earlier",
+  "description": "Geode is a mod loader for Geometry Dash, this is the Nightly version, meaning that you use the beta upcoming version of Geode.",
+  "iconURL": "https://i.imgur.com/nobqx50.png",
+  "website": "https://geode-sdk.org/",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.geode.launcher"
+  ],
+  "headerURL": "https://i.imgur.com/6al5P4S.png",
+  "apps": [
+    {
+      "name": "Geode (nightly)",
+      "bundleIdentifier": "com.geode.launcher",
+      "developerName": "Geode team",
+      "subtitle": "Test Geode features",
+      "localizedDescription": "This is an awesome app, also available on AltStore.",
+      "iconURL": "https://i.imgur.com/6WJZLdg.png",
+      "tintColor": "#698f95",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          "https://i.imgur.com/XvLXyx0.png"
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/nPgQLgz.png",
+            "width": 1080,
+            "height": 608
+          },
+          "https://i.imgur.com/8dLaCBq.png"
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2025-11-02T11:37:00+02:00",
+          "localizedDescription": "Geode beta",
+          "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/nightly/com.geode.launcher_b540b19.ipa",
+          "size": 8300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "A mod you are using is requesting this permission.",
+          "NSCameraUsageDescription": "A mod you are using is requesting this permission.",
+          "NSLocalNetworkUsageDescription": "This permission is needed for accessing the JIT server."
+        }
+      }
+    }
+  ],
+  "news": []
+}
